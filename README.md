@@ -28,7 +28,7 @@ Clean, modular structure
 
 Easy to maintain and extend
 
-Well-suited for integration with REST APIs or frontend apps
+Well-suited for integration frontend apps
 
 Follows best practices using Spring Boot
 
